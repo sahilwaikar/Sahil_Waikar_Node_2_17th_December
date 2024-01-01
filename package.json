@@ -1,0 +1,27 @@
+{
+  "name": "sahil_waikar_node_2_17th_december",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilwaikar/Sahil_Waikar_Node_2_17th_December.git"
+  },
+  "author": "Sahil Waikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilwaikar/Sahil_Waikar_Node_2_17th_December/issues"
+  },
+  "homepage": "https://github.com/sahilwaikar/Sahil_Waikar_Node_2_17th_December#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3"
+  }
+}
